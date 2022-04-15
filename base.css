@@ -649,7 +649,7 @@ toolbar .toolbarbutton-1:not(#back-button):not(#forward-button):not(#reload-butt
     background-color: transparent !important;
 }
 #PersonalToolbar {
-    -moz-box-ordinal-group: 1;
+    -moz-box-ordinal-group: 0;
     padding: 0px !important;
     max-height: 35px !important;
     min-height: 35px !important;
